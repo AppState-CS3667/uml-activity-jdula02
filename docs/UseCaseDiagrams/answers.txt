@@ -1,0 +1,29 @@
+1.What are the primary actors? 
+The shoppers. This includes adult/minor
+2.What are the secondary actors?
+The Employee is the secondary actor since they directly interact with the shoppers
+one they complete shopping.
+3.What type of word describes the use cases? (noun,
+adjective, verb, adverb, etc)
+Verb, use cases describe interactions the actors while shopping, whether it be the consumer,
+or the employee.
+4.What type of word describes the actors?
+Noun, because the primary initiate interaction with the sysetem,
+while secondary reacts, and rights the system.
+5.Why is/are the primary actor(s) primary and not
+secondary?
+the primary actor initiates the system, while the employee (secondary) reacts
+to how the system is used.
+6.Why is/are the secondary actor(s) secondary and not
+primary?
+Th employee in this case must be secondary because they retain order
+of the system that is in place. The employee also carries out the process
+of the shopper by carrying out the system. Without the employee, there would
+be no shopper.
+7.Why does Verify ID extend Scan Items?
+Can items extends verify ID due to the realistic sitauation of a purchase of items
+people can only buy at a certain age. This would help decipher if the shopper can
+indeed purchase that item.
+8.Why does Scan Items include Check Cart for Items?
+You cannot scan items if you do not have items to scan, this provides the condition
+of scanning items when there are items to scan for the customer.
